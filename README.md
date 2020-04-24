@@ -1,11 +1,12 @@
 [![npm](https://img.shields.io/github/package-json/v/mikelgo/ts-utils?style=flat-square)](https://www.npmjs.com/package/mikelgo/ts-utils)
-[![npm](https://img.shields.io/circleci/build/github/mikelgo/ts-utils/master?style=flat-square&token=9bb3fb5d157d1879a923930910ee034891bf15a9)](https://www.npmjs.com/package/mikelgo/ts-utils)
-[![npm](https://img.shields.io/npm/l/@mikelgo/ts-utils?style=flat-square)](https://www.npmjs.com/package/mikelgo/ts-utils)
-[![codecov](https://codecov.io/gh/mikelgo/ts-utils/branch/master/graph/badge.svg)](https://codecov.io/gh/mikelgo/ts-utils)
+[![npm](https://img.shields.io/circleci/build/github/mikelgo/ts-utils/master?style=flat-square&token=9bb3fb5d157d1879a923930910ee034891bf15a9)](https://www.npmjs.com/package/mikelgo/ts-guava)
+[![npm](https://img.shields.io/npm/l/@mikelgo/ts-utils?style=flat-square)](https://www.npmjs.com/package/mikelgo/ts-guava)
+[![codecov](https://codecov.io/gh/mikelgo/ts-utils/branch/master/graph/badge.svg)](https://codecov.io/gh/mikelgo/ts-guava)
 
-# Ts-utils
+# Ts-guava
 
-Ts-utils is a small library providing some TypeScript utility functions to deal with objects and arrays.
+Ts-guava is a small library providing some TypeScript utility functions to deal with objects and arrays. The libraries aim is
+to provide the Google Guava utilities to the TypeScript world.
 
 ## Installation
 
