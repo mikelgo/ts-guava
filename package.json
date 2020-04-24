@@ -1,0 +1,46 @@
+{
+  "name": "@mikelgo/ts-guava",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A collection of TypeScript utility functions",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "jest --config jestconfig.json",
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikelgo/ts-guava.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "TS",
+    "Utils",
+    "Utilities",
+    "TS-Utils"
+  ],
+  "author": "Mikelgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikelgo/ts-guava/issues"
+  },
+  "homepage": "https://github.com/mikelgo/ts-guava#readme",
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "jest": "^25.2.0",
+    "prettier": "^2.0.2",
+    "ts-jest": "^25.2.1",
+    "tslint": "^6.1.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.8.3"
+  },
+  "peerDependencies": {
+    "typescript": "^3.0.0"
+  }
+}
