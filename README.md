@@ -12,7 +12,7 @@ Ts-utils is a small library providing some TypeScript utility functions to deal 
 Use npm to install:
 
 ```bash
-    $ npm i @mikelgo/ts-utils
+    $ npm i @mikelgo/ts-guava
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Just import the util-function you want to use by importing it from the lib.
 Example:
 
 ```typescript
-import {isValid} from '@mikelgo/ts-utils/common-utils'
+import {isValid} from '@mikelgo/ts-guava/common-utils'
 
     if(isValid(somethingToCheck){
         // ...execute some code
